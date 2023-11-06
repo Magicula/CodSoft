@@ -1,0 +1,213 @@
+{C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Reg_block_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Reg_block_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reg_block_tb
+
+Top level modules:
+	reg_block_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Top_View.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Top_View.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module merv32_top
+
+Top level modules:
+	merv32_top
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/pc_MUX1.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\pc_MUX1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PCMux
+
+Top level modules:
+	PCMux
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Branch_Unit.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Branch_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module branch
+
+Top level modules:
+	branch
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Decoder.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_dec
+
+Top level modules:
+	msrv32_dec
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/ALU_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\ALU_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_alu_tb
+
+Top level modules:
+	marv32_alu_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Write_enable_generator.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Write_enable_generator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module wr_en_generator
+
+Top level modules:
+	wr_en_generator
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Instruction_Mux_tb.v} {2 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Instruction_Mux_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_instruction_decoder_tb
+** Warning: C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Instruction_Mux_tb.v(65): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Instruction_Mux_tb.v(101): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	marv32_instruction_decoder_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Imm_Add_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Imm_Add_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module imm_addr_tb
+
+Top level modules:
+	imm_addr_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/REG_BLOCK.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\REG_BLOCK.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reg_block
+
+Top level modules:
+	reg_block
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Imm_Gen_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Imm_Gen_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Imm_gen_tb
+
+Top level modules:
+	Imm_gen_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Top_View_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Top_View_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module merv32_top_tb
+
+Top level modules:
+	merv32_top_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Branch_Unit_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Branch_Unit_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module branch_tb
+
+Top level modules:
+	branch_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/ALU.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_alu
+
+Top level modules:
+	marv32_alu
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Pc_muc_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Pc_muc_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PCMux_tb
+
+Top level modules:
+	PCMux_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/WB_Mux_Selection-Unit.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/WB_Mux_Selection-Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_wb_mux_sel_unit
+
+Top level modules:
+	msrv32_wb_mux_sel_unit
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Integer_File.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Integer_File.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Imm_gen
+
+Top level modules:
+	Imm_gen
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Immediate_adder.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Immediate_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module imm_addr
+
+Top level modules:
+	imm_addr
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Integer_file1.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Integer_file1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module integer_file
+
+Top level modules:
+	integer_file
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Reg_Block2_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Reg_Block2_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_reg_block_2_tb
+
+Top level modules:
+	msrv32_reg_block_2_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Load_Unit.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Load_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_lu
+
+Top level modules:
+	msrv32_lu
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Store_Unit_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Store_Unit_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_store_unit_tb
+
+Top level modules:
+	marv32_store_unit_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Wr_en_gen_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Wr_en_gen_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module wr_en_generator_tb
+
+Top level modules:
+	wr_en_generator_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Integer_file_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Integer_file_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module integer_file_tb
+
+Top level modules:
+	integer_file_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Reg_Block2.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Reg_Block2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_reg_block_2
+
+Top level modules:
+	msrv32_reg_block_2
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Decoder_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Decoder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_dec_tb
+
+Top level modules:
+	msrv32_dec_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Instruction_Mux.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Instruction_Mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_instruction_decoder
+
+Top level modules:
+	marv32_instruction_decoder
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/WB_Mux_Selection_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\WB_Mux_Selection_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_wb_mux_sel_unit_tb
+
+Top level modules:
+	msrv32_wb_mux_sel_unit_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Load_Unit_tb.v} {1 {vlog -work work -stats=none {C:\Users\devan\Downloads\Student co-or id (1)\Verilog_Labs\RISC-V Project\pcmux\Load_Unit_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module msrv32_lu_tb
+
+Top level modules:
+	msrv32_lu_tb
+
+} {} {}} {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Store_Unit.v} {1 {vlog -work work -stats=none {C:/Users/devan/Downloads/Student co-or id (1)/Verilog_Labs/RISC-V Project/pcmux/Store_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module marv32_store_unit
+
+Top level modules:
+	marv32_store_unit
+
+} {} {}}
